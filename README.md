@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Viktor here, I like staking and mining cryptocurrency (that´s what I´m here!).
